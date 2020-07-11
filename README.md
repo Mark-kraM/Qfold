@@ -1,6 +1,6 @@
 # Qfold
 The Qfold executable can be found inside the QFOLD.zip. Here are the steps for reproduction:
-1. Unzip to a folder you can find and copy the address of the folder (Ctrl-c)
+1. Unzip to a folder you can find and copy the entire address of the dist/Qfold folder (Ctrl-c), e.g. _____QFOLD\QFOLD\dist\Qfold
 2. Open a Command Prompt window and type “cd” then right-click and choose Paste to paste in the address of the folder 
 3. Pick the .ct file for an RNA sequence (recommended less than ~500 nt, e.g. ASE_00001.ct. Note that .ct files can be obtained from the RNA strand database
 4. Type “Qfold ASE_00001.ct”. Note that the program takes only one input argument which is the .ct filename
